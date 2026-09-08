@@ -1,0 +1,86 @@
+SMARTDESK AI
+Features and Working Process
+
+
+KEY FEATURES
+
+1. IT Issue Classification
+The system analyzes the user's problem and identifies the appropriate IT issue category.
+
+2. Priority Detection
+SmartDesk AI determines whether an issue has Low, Medium, High, or Critical priority.
+
+3. Confidence-Based Decision Making
+The system calculates its confidence in identifying the user's issue. Low-confidence issues can be recommended for human support.
+
+4. Sentiment Detection
+The system identifies whether a user appears frustrated and provides a more supportive response.
+
+5. Knowledge Base Retrieval
+SmartDesk AI retrieves relevant troubleshooting solutions from the IT knowledge base.
+
+6. Multi-Step Troubleshooting
+The assistant provides solutions step by step and checks whether each step resolves the issue.
+
+7. Conversation Memory
+The system stores information about previously reported issues during the session.
+
+8. Automatic Ticket Creation
+If an issue cannot be resolved, SmartDesk AI automatically creates a support ticket.
+
+9. Ticket Status Checking
+Users can check the status and details of their previously created support tickets.
+
+10. Smart Issue Escalation
+Critical or unresolved issues can be automatically escalated to IT support.
+
+11. Feedback Collection
+The system records whether the troubleshooting process successfully resolved the issue.
+
+12. Helpdesk Analytics
+SmartDesk AI provides information about total issues, resolved issues, unresolved issues, tickets created, resolution rate, and common issue categories.
+
+
+SUPPORTED IT CATEGORIES
+
+- Network Issues
+- System Issues
+- Printer Issues
+- Account and Access Issues
+- Email Issues
+- Software and Application Issues
+- Security Issues
+- File and Storage Issues
+
+
+WORKING PROCESS
+
+Step 1:
+The user reports an IT-related problem.
+
+Step 2:
+SmartDesk AI analyzes the issue.
+
+Step 3:
+The issue is classified into an appropriate category.
+
+Step 4:
+The system detects the priority level and confidence level.
+
+Step 5:
+Relevant troubleshooting information is retrieved from the knowledge base.
+
+Step 6:
+The system provides step-by-step troubleshooting solutions.
+
+Step 7:
+The user confirms whether the issue has been resolved.
+
+Step 8:
+If the issue is resolved, feedback is collected.
+
+Step 9:
+If the issue remains unresolved, a support ticket is automatically created.
+
+Step 10:
+Users can check ticket information and view helpdesk analytics.
