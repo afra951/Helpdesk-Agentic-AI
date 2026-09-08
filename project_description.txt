@@ -1,0 +1,17 @@
+SMARTDESK AI
+Agentic AI-Powered IT Helpdesk Assistant
+
+
+PROJECT OVERVIEW
+
+SmartDesk AI is an Agentic AI-powered IT Helpdesk Assistant designed to provide intelligent and automated support for common IT-related problems.
+
+Traditional IT helpdesk systems often require users to wait for technical support staff, even for simple and common problems such as Wi-Fi connectivity issues, printer errors, login problems, software crashes, and email issues. SmartDesk AI aims to reduce this dependency by providing an intelligent system that can analyze problems and guide users through troubleshooting steps.
+
+The system receives an IT issue from the user and analyzes the problem to identify its category. It then determines the priority level and confidence level of the issue. Based on the analysis, SmartDesk AI retrieves relevant troubleshooting solutions from its knowledge base.
+
+The assistant provides step-by-step guidance to the user and checks whether the issue has been resolved. If the problem cannot be solved automatically, the system escalates the issue by creating a support ticket.
+
+SmartDesk AI demonstrates the application of Agentic AI concepts such as intelligent decision-making, knowledge retrieval, memory, multi-step problem solving, tool usage, and automatic escalation.
+
+The main goal of the project is to create an intelligent IT support assistant that provides faster and more efficient helpdesk services.
